@@ -1,0 +1,2 @@
+# smash
+limited functionality shell
