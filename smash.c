@@ -16,10 +16,13 @@
 #define _GNU_SOURCE
 #include <stdio.h>
 #include <string.h>
+#include <signal.h>
 #include "smash.h"
 #include "history.h"
 
 #define MAXLINE 4096
+
+
 //---------------------------------------------------------------------
 //main -- the main function
 //---------------------------------------------------------------------
